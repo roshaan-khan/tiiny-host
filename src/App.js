@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Nav from "./Components/Nav";
+import Header from "./Components/Header";
+import Main from "./Components/Main";
+import Container from "./Components/Container";
+import MyDropzone from "./Components/DragnDrop";
+import BelowMain from "./Components/BelowMain";
+import FrameArea from "./Components/FrameArea";
+import ScaleImage from "./Components/ScaleImage";
+import Features from "./Components/Features";
+import Pricing from "./Components/Pricing";
+import Faq from './Components/Faq'
+import FileUpload from "./Components/FileUpload";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+  <Nav/>
+  <Header/>
+  <Main/>
+  <Container/>
+<MyDropzone />
+<BelowMain />
+<FrameArea />
+<ScaleImage />
+<Features />
+<Pricing />
+<Faq />
+{/* <FileUpload /> */}
+   </>
   );
 }
 

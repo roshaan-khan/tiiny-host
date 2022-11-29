@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2340.148" height="702.871" viewBox="0 0 2340.148 702.871">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.168;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Grid" class="cls-1" transform="matrix(0.996, -0.087, 0.087, 0.996, -196.696, -3124.636)">
+    <path id="Line_5" data-name="Line 5" class="cls-2" d="M2067,.5H0v-1H2067Z" transform="translate(-59.5 3344.5)"/>
+    <path id="Line_6" data-name="Line 6" class="cls-2" d="M2349,.5H0v-1H2349Z" transform="translate(-115.5 3577.5)"/>
+    <path id="Line_7" data-name="Line 7" class="cls-2" d="M2286,.5H0v-1H2286Z" transform="translate(-108.5 3812.5)"/>
+    <path id="Line_8" data-name="Line 8" class="cls-2" d="M.5,591h-1V0h1Z" transform="translate(210.5 3269.5)"/>
+    <path id="Line_9" data-name="Line 9" class="cls-2" d="M.5,591h-1V0h1Z" transform="translate(457.5 3269.5)"/>
+    <path id="Line_10" data-name="Line 10" class="cls-2" d="M.5,580h-1V0h1Z" transform="translate(751.5 3280.5)"/>
+    <path id="Line_11" data-name="Line 11" class="cls-2" d="M14.5,582.013-.5.013l1-.026,15,582Z" transform="translate(1059.5 3269.5)"/>
+    <path id="Line_12" data-name="Line 12" class="cls-2" d="M.5,571h-1V0h1Z" transform="translate(1346.5 3280.5)"/>
+    <path id="Line_13" data-name="Line 13" class="cls-2" d="M10.5,580.01-.5.009l1-.019,11,580Z" transform="translate(1633.5 3280.5)"/>
+  </g>
+</svg>
